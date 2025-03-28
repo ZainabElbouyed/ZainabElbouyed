@@ -2,8 +2,7 @@
 <h1> Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=ZainabElbouyed.ZainabElbouyed" alt="Profile views">
-<a href="https://github.com/ZainabElbouyed"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
+<p> <a href="https://github.com/ZainabElbouyed"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
 <div size="20px"> Hi! My name is Zainab EL BOUYED. Thank You for taking the time to view my GitHub Profile :)
 </div>
 <h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
@@ -46,7 +45,7 @@
 <br>
 <br>
   <br>
-<p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=ZainabElbouyed&amp;theme=tokyonight" alt="Zainab's GitHub Activity Graph"></a></p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=ZainabElbouyed&amp;theme=tokyonight" alt="Zainab's GitHub Activity Graph"></a></p>
 
 
 
