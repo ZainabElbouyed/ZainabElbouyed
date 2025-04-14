@@ -21,7 +21,7 @@
 <p>💬 Detailed-oriented, responsible, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.</p>
 </li>
 <li>
-<p>📄 Please have a look at my <a href="[https://zainabelbouyed.github.io/Mon-portfolio/images/CV.pdf]">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p>
+<p>📄 Please have a look at my <a href="[https://github.com/ZainabElbouyed/Mon-portfolio/blob/main/images/CV.pdf]">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p>
 <li>
 <p>⚡ Fun fact: Solving problems and learning new things are my daily adventures! 🚀</p>
 </li>
