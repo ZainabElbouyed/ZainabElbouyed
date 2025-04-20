@@ -39,7 +39,7 @@
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 <a href="https://www.linkedin.com/in/zainab-el-bouyed-85700535b"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
 <a href="https://www.instagram.com/zainab._.elb?igsh=MXQzN3B6cjk2ZTQ1MQ=="> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"></a> 
-<a href="mailto:zelbouyed@gmail.com"> <img width="32px" align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/gmail.svg"></a> 
+<a href="mailto:elbouyedzainab@gmail.com"> <img width="32px" align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/gmail.svg"></a> 
 <a href="https://zainabelbouyed.github.io/Mon-portfolio/"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"></a> 
 <a href="https://github.com/ZainabElbouyed"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
 <br>
