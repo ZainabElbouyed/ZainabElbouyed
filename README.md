@@ -37,7 +37,7 @@
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=bootstrap&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg"> </a>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=linux&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg"> </a>
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
-<a href="https://www.linkedin.com/in/zainab-el-bouyed-b60a79330?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
+<a href="https://www.linkedin.com/in/zainab-el-bouyed-85700535b"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
 <a href="https://www.instagram.com/zainab._.elb?igsh=MXQzN3B6cjk2ZTQ1MQ=="> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"></a> 
 <a href="mailto:zelbouyed@gmail.com"> <img width="32px" align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/gmail.svg"></a> 
 <a href="https://zainabelbouyed.github.io/Mon-portfolio/"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"></a> 
