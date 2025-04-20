@@ -9,7 +9,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
-<p>🎓 I’m currently a student in Embedded and Distributed Systems Engineering – Cloud &amp; IoT at INPT, Rabat</p>
+<p>🎓 I’m currently a student in Ubiquitous and Distributed Systems Engineering – Cloud &amp; IoT at INPT, Rabat</p>
 </li>
 <li>
 <p>👨🏻‍💻 Passionate About Programming and Connected Systems with hands-on experience in IoT projects and data management solutions.</p>
