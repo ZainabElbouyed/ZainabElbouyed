@@ -45,7 +45,12 @@
 <br>
 <br>
   <br>
-<h2> Zainab's GitHub Activity Graph <img src="https://activity-graph.herokuapp.com/graph?username=ZainabElbouyed&amp;theme=tokyonight" width="32px">
+  <h2> Zainab's GitHub Activity Graph 
+  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="32px" style="vertical-align:middle;">
+  <p><img src="https://activity-graph.herokuapp.com/graph?username=ZainabElbouyed&amp;theme=tokyonight" > </p>
+</h2>
+
+
 
 
 
