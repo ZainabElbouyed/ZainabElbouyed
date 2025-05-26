@@ -45,7 +45,7 @@
 <br>
 <br>
   <br>
-<p><img src="https://activity-graph.herokuapp.com/graph?username=ZainabElbouyed&amp;theme=tokyonight" alt="Zainab's GitHub Activity Graph"></a></p>
+<h2> Zainab's GitHub Activity Graph <img src="https://activity-graph.herokuapp.com/graph?username=ZainabElbouyed&amp;theme=tokyonight" width="32px">
 
 
 
