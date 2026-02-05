@@ -52,8 +52,29 @@
 
 
 
+<table>
+<thead>
+<tr>
+<th>
+<img src="https://github-readme-stats-rde473v69-zainabelbouyeds-projects.vercel.app/api?username=ZainabElbouyed&show_icons=true&theme=tokyonight" alt="Zainab's github stats">
+</th>
+<th>
+<img src="https://streak-stats.demolab.com?user=ZainabElbouyed&theme=tokyonight" alt="Zainab GitHub Streak">
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src="https://github-readme-stats-rde473v69-zainabelbouyeds-projects.vercel.app/api/top-langs/?username=ZainabElbouyed&theme=tokyonight" alt="Top Langs">
+</td>
+<td>
+<img src="https://github-readme-stats-rde473v69-zainabelbouyeds-projects.vercel.app/api?username=ZainabElbouyed&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="Github Stars">
+</td>
+</tr>
+</tbody>
+</table>
 
-<table><thead><tr><th><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZainabElbouyed&show_icons=true&theme=tokyonight" alt="Zainab's github stats"></th><th><img src="https://streak-stats.demolab.com?user=ZainabElbouyed&theme=tokyonight" alt="Zainab GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZainabElbouyed&theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZainabElbouyed&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
 
 <p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
 <br>
