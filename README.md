@@ -9,20 +9,20 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
-<p>🎓 I’m currently a student in Ubiquitous and Distributed Systems Engineering – Cloud &amp; IoT at INPT, Rabat</p>
+  <p>🎓 I’m currently an engineering student at INPT, Rabat, specializing in Ubiquitous and Distributed Systems with a focus on Cloud technologies.</p>
 </li>
 <li>
-<p>👨🏻‍💻 Passionate About Programming and Connected Systems with hands-on experience in IoT projects and data management solutions.</p>
+  <p>👨🏻‍💻 Passionate about software development, cloud computing, DevOps, data, and AI, I enjoy building smart, scalable, and reliable digital solutions.</p>
 </li>
 <li>
-<p>👯 I take a research-focused approach to implementing innovative solutions for sustainable technological projects.</p>
+  <p>🛠️ My experience includes web development, microservices-based applications, data-driven projects, and machine learning solutions.</p>
 </li>
 <li>
-<p>💬 Detailed-oriented, responsible, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.</p>
+  <p>💬 I’m detail-oriented, proactive, and committed to delivering clean, high-quality work. I’m a quick learner who enjoys both autonomy and teamwork.</p>
 </li>
 <li>
-<p>📄 Please have a look at my <a href="https://zainabelbouyed.github.io/Mon-portfolio/images/CV.pdf">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p>
-<li>
+  <p>📄 Feel free to explore my <a href="https://zainabelbouyed.github.io/Mon-portfolio/images/CV.pdf">Résumé</a> for more details about my background, projects, and technical skills.</p>
+</li>
 <p>⚡ Fun fact: Solving problems and learning new things are my daily adventures! 🚀</p>
 </li>
 </ul>
