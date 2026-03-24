@@ -45,11 +45,16 @@
 <br>
 <br>
   <br>
-  <h2> Zainab's GitHub Activity Graph 
+  <h2>
+  Zainab's GitHub Activity
   <img src="https://assets-v2.lottiefiles.com/a/f62481a4-1172-11ee-aa7c-232f008dfb14/Sl4fTVnhQL.gif" width="32px" style="vertical-align:middle;">
-  </h2>
-<img src="https://github-readme-stats-rde473v69-zainabelbouyeds-projects.vercel.app/api?username=ZainabElbouyed&show_icons=true&theme=tokyonight" alt="Zainab's github stats">
+</h2>
 
+<img src="https://github-readme-stats.vercel.app/api?username=ZainabElbouyed&show_icons=true&theme=tokyonight" alt="Zainab's GitHub stats">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainabElbouyed&theme=tokyo-night" alt="Zainab's GitHub Activity Graph">
 
 <p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
 <br>
